@@ -1,0 +1,7 @@
+{
+  "name": "MemeGen AI",
+  "description": "An AI-powered meme generator featuring Magic Captions, AI Image Editing, and detailed Image Analysis using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
